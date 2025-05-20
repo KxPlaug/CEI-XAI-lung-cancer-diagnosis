@@ -1,0 +1,11 @@
+captum==0.7.0
+matplotlib==3.10.3
+numpy==1.24.4
+opencv_python==4.10.0.84
+Pillow==11.2.1
+scipy==1.15.3
+statsmodels==0.14.4
+torch==2.6.0+cu126
+torchvision==0.21.0+cu126
+tqdm==4.67.1
+trulens==0.13.4
